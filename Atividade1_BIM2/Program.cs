@@ -12,7 +12,7 @@ namespace Atividade1_BIM2
         
             /* |====================================================| */
             /* |* AUTOR: RENAN LIMA | RA: 6321300 ******************| */
-            /* |* DATA DE CRIAÇÃO: 07.JUN.2022 *********************| */
+            /* |* DATA DE CRIAÇÃO: 07.JUL.2022 *********************| */
             /* |* PROVA FECHAMENTO DE NOTA DO 2 BIMESTRE ***********| */
             /* |* MATÉRIA: LÓGICA DE PROGRAMAÇÃO *******************| */
             /* |* SEMESTRE: 1 | INSTITUIÇÃO: UNIFAAT ATIBAIA *******| */
